@@ -1,0 +1,14 @@
+feed.xml
+atom.xml
+phpunit.xml
+phpunit.xml.dist
+phpcs.xml
+phpcs.xml.dist
+phpstan.xml
+phpstan.xml.dist
+psalm.xml
+psalm.xml.dist
+phing.xml
+build.xml
+codecoverage.xml
+codecoverage.xml.dist
